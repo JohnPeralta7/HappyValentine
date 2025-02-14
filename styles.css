@@ -23,7 +23,7 @@ body {
 
 @font-face {
     font-family: 'Ly Bella';
-    src: url(./font/josephsophia.ttf) format(truetype);
+    src: url(josephsophia.ttf) format(truetype);
     font-size: 30px;
 }
 
